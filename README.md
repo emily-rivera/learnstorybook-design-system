@@ -1,2 +1,2 @@
-# learnstorybook-design-system
-Exploring Storybook and its capabilities
+# Storybook Design System
+Exploring [Storybook](https://storybook.js.org/) and its capabilities
